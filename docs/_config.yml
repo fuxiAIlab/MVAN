@@ -1,0 +1,8 @@
+title: MVAN
+logo:
+description: 'This is the detail page of the paper <br><strong><em>MVAN: Multi-view Attention Networks for Real Money Trading Detection in Online Games.</em></strong>'
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+paper_link: https://www.kdd.org/kdd2019/accepted-papers/view/mvan-multi-view-attention-networks-for-real-money-trading-detection-in-onli
+data_link: /tree/master/data
