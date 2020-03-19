@@ -4,5 +4,7 @@ description: 'This is the detail page of the paper <br><strong><em>MVAN: Multi-v
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-paper_link: https://www.kdd.org/kdd2019/accepted-papers/view/mvan-multi-view-attention-networks-for-real-money-trading-detection-in-onli
+paper_link: /tree/master/docs/MVAN.pdf
 data_link: /tree/master/data
+code_link: /tree/master/src
+
